@@ -2,6 +2,7 @@
 
 - Improving my skills in **Quantum Physics** and **Quantum Computing**
 - Exploring **C#** and **C++**
+- Refining **Java** and **Python**
 - Looking into **Quantum Algorithms** and **Physics Simulations**
 
 ---
